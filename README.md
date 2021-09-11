@@ -29,7 +29,4 @@ const me = {
 <a href="mailto:shahzodraufov@gmail.com" rel="noopener noreferrer" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png"  width="50"/></a>
 </p>
 
-<p>Check out <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
-
 <img src="https://visitor-badge.glitch.me/badge?page_id=shahzodr" alt="visitor badge"/>
