@@ -12,8 +12,8 @@ const me = {
   💻 frontEnd: ["TypeScript", "React.js", "HTML5", "CSS", "JavaScript"],
   🌐 backEnd: ["Java", "C#", "Python", "SwiftUI"],
   🛢 database: ["SQL", "MongoDB", "PostgreSQL"],
-  cloud: ["AWS", "Firebase", "Azure", "Google Cloud"]
-  architecture: ["microservices", "event-driven", "design system pattern", "object oriented design"],
+  ☁️ cloud: ["AWS", "Firebase", "Azure", "Google Cloud"]
+  📐 architecture: ["microservices", "event-driven", "design system pattern", "object oriented design"],
   techCommunities: {
                         tutor: "CST Courses at NYCCT",
                         helper: "Java Discord Community"
