@@ -2,15 +2,26 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 🎓 CUNY NYCCT || Computer Systems Technology, Software Development graduate.
 - 🔭 Currently searching Software Engineering (Internship || Entry-level) opportunities.
 - 🤔 Learning new and exciting technologies (programming languages, frameworks, etc). 
-- 🎓 CUNY NYCCT || Computer Systems Technology, Software Development graduate.
 
-<h3>🛠 Tech Stack</h3>
+```javascript
+const me = {
+  pronouns: "he" | "him",
+  💻 frontEnd: ["TypeScript", "React.js", "HTML5", "CSS", "JavaScript"],
+  🌐 backEnd: ["Java", "C#", "Python", "SwiftUI"],
+  🛢 database: ["SQL", "MongoDB", "PostgreSQL"],
+  cloud: [AWS, Firebase]
+  architecture: ["microservices", "event-driven", "design system pattern", "object oriented design"],
+  techCommunities: {
+                        tutor: "CST Courses at NYCCT",
+                        helper: "Java Discord Community"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
-- 💻 Frontend: Typescipt || React.js
-- 🌐 Backend: Java || C# || Python || Node.js || Express.js
-- 🛢 Databases: SQL || MongoDB || PostgreSQL || Firebase
 <br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
