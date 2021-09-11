@@ -1,25 +1,16 @@
-### Hi there 👋
+<h2> Hi, I'm Shahzod! Welcome to my GitHub page. 👋 </h2>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/XymXANrzgI4k6FL6zr/giphy.gif" width="500"/>
 
-<!--
-**shahzodr/shahzodr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 Currently searching Software Engineering (Internship || Entry-level) opportunities.
+- 🤔 Learning new and exciting technologies (programming languages, frameworks, etc). 
+- 🎓 CUNY NYCCT || Computer Systems Technology, Software Development graduate.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
 
-<div align="center" style="display: flex;justify-content: center;align-items: center; flex-direction:column;width:100%">
-<img src="https://github-readme-stats.vercel.app/api?username=shahzodr&show_icons=true&count_private=true&hide_border=true?layout=compact" align="left" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzodr&hide_border=true&layout=compact" align="left" />  
-</div>
-<br/>  
-<br/>
+- 💻 Frontend: Typescipt || React.js
+- 🌐 Backend: Java || C# || Python || Node.js || Express.js
+- 🛢 Databases: SQL || MongoDB || PostgreSQL || Firebase
+<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shahzodr)
