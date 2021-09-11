@@ -13,5 +13,6 @@
 - 🌐 Backend: Java || C# || Python || Node.js || Express.js
 - 🛢 Databases: SQL || MongoDB || PostgreSQL || Firebase
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shahzodr)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+```
+![Visitor Count](https : //profile-counter.glitch.me/shahzodr/count.svg)
+```
