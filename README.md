@@ -13,6 +13,6 @@
 - 🌐 Backend: Java || C# || Python || Node.js || Express.js
 - 🛢 Databases: SQL || MongoDB || PostgreSQL || Firebase
 <br>
-```
+
 ![Visitor Count](https : //profile-counter.glitch.me/shahzodr/count.svg)
-```
+
