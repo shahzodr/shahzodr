@@ -1,5 +1,4 @@
 <h2> Hi, I'm Shahzod! Welcome to my GitHub page. 👋 </h2>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/XymXANrzgI4k6FL6zr/giphy.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
