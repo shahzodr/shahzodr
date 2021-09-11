@@ -14,5 +14,4 @@
 - 🛢 Databases: SQL || MongoDB || PostgreSQL || Firebase
 <br>
 
-![Visitor Count](https : //profile-counter.glitch.me/shahzodr/count.svg)
-
+<img src="https://visitor-badge.glitch.me/badge?page_id=shahzodr" alt="visitor badge"/>
