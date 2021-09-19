@@ -6,6 +6,7 @@
 - 🔭 Currently looking for Software Engineering (Internship || Entry-level) opportunities.
 - 🤔 Learning new and exciting technologies (programming languages, frameworks, etc). 
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR…
 ```javascript
 const me = {
   pronouns: "he" | "him",
