@@ -6,7 +6,7 @@
 - 🔭 Currently looking for Software Engineering (Internship || Entry-level) opportunities.
 - 🤔 Learning new and exciting technologies (programming languages, frameworks, etc). 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR…
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript
 const me = {
   pronouns: "he" | "him",
