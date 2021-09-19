@@ -18,7 +18,7 @@ const me = {
                         tutor: "CST Courses at NYCCT",
                         helper: "Java Discord Community"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am currently focusing on learning React, TypeScript, PostgreSQL and GraphQL"
 }
 ```
 <br>
