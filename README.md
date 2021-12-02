@@ -10,8 +10,8 @@
 ```javascript
 const me = {
   pronouns: "he" | "him",
-  💻 frontEnd: ["TypeScript", "React.js", "HTML5", "CSS", "JavaScript"],
-  🌐 backEnd: ["Java", "C#", "Python", "SwiftUI"],
+  💻 frontEnd: ["HTML", "CSS", "JavaScript", "React.js"],
+  🌐 backEnd: ["Java", "C#", "Python", "Swift"],
   🛢 database: ["MySQL", "Microsoft SQL Server", "Oracle"],
   ☁️ cloud: ["AWS", "Firebase"]
   📐 architecture: ["event-driven", "object oriented design"],
