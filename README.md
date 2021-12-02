@@ -19,7 +19,7 @@ const me = {
                         tutor: "CST Courses at NYCCT",
                         helper: "Java Discord Community"
                       },
- challenge: "I am currently focusing on learning React, TypeScript, PostgreSQL and GraphQL"
+ challenge: "I am currently focusing on learning React, MongoDB and GraphQL"
 }
 ```
 <br>
