@@ -12,7 +12,7 @@ const me = {
   pronouns: "he" | "him",
   💻 frontEnd: ["TypeScript", "React.js", "HTML5", "CSS", "JavaScript"],
   🌐 backEnd: ["Java", "C#", "Python", "SwiftUI"],
-  🛢 database: ["SQL", "MongoDB", "PostgreSQL"],
+  🛢 database: ["MySQL", "Microsoft SQL Server", "Oracle"],
   ☁️ cloud: ["AWS", "Firebase"]
   📐 architecture: ["event-driven", "object oriented design"],
   techCommunities: {
