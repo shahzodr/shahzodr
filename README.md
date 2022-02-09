@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 CUNY NYCCT || Computer Systems Technology, Software Development graduate.
-- 🔭 Currently looking for Software Engineering (Internship || Entry-level) opportunities.
+- 🔭 Starting off my career as a software engineer.
 - 🤔 Learning new and exciting technologies (programming languages, frameworks, etc). 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
